@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ensure _components folder and its files are not ignored
+!app/
+!app/(main)/
+!app/(main)/ai-cover-letter/
+!app/(main)/ai-cover-letter/_components/
+!app/(main)/ai-cover-letter/_components/*.jsx
