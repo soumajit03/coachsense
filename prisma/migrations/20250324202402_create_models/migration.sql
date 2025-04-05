@@ -1,5 +1,5 @@
 -- CreateEnum
-CREATE TYPE "DemandLevel" AS ENUM ('HIGH', 'MEDIUM', 'LOW');
+CREATE TYPE "DemandLevel" AS ENUM ('High', 'Medium', 'Low');
 
 -- CreateEnum
 CREATE TYPE "MarketOutlook" AS ENUM ('POSITIVE', 'NEUTRAL', 'NEGATIVE');

@@ -100,9 +100,9 @@ model IndustryInsight {
 
 
 enum DemandLevel {
-  HIGH
-  MEDIUM
-  LOW
+  High
+  Medium
+  Low
 }
 
 enum MarketOutlook {
